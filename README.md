@@ -1,2 +1,2 @@
 # Taller_2
-POLIMORFIMO- Emily Rivera, Ismael Sarango, Dario Minga
+POLIMORFISMO- Emily Rivera, Ismael Sarango, Dario Minga
